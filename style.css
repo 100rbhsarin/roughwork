@@ -1,0 +1,15 @@
+
+body{
+    background-color: rgb(104,189,233)
+    ;
+}
+.heading2{
+    background-color: rgb(255,254,68);
+    text-align: center;
+    
+}
+.topcon{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
